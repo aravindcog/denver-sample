@@ -1,0 +1,12 @@
+D:\UW\Augusta\source\Denver\IdentityApi.Domain\bin\Debug\netcoreapp3.1\IdentityApi.Domain.deps.json
+D:\UW\Augusta\source\Denver\IdentityApi.Domain\bin\Debug\netcoreapp3.1\IdentityApi.Domain.dll
+D:\UW\Augusta\source\Denver\IdentityApi.Domain\bin\Debug\netcoreapp3.1\IdentityApi.Domain.pdb
+D:\UW\Augusta\source\Denver\IdentityApi.Domain\bin\Debug\netcoreapp3.1\Denver.Infra.dll
+D:\UW\Augusta\source\Denver\IdentityApi.Domain\bin\Debug\netcoreapp3.1\Denver.Infra.pdb
+D:\UW\Augusta\source\Denver\IdentityApi.Domain\obj\Debug\netcoreapp3.1\IdentityApi.Domain.csprojAssemblyReference.cache
+D:\UW\Augusta\source\Denver\IdentityApi.Domain\obj\Debug\netcoreapp3.1\IdentityApi.Domain.AssemblyInfoInputs.cache
+D:\UW\Augusta\source\Denver\IdentityApi.Domain\obj\Debug\netcoreapp3.1\IdentityApi.Domain.AssemblyInfo.cs
+D:\UW\Augusta\source\Denver\IdentityApi.Domain\obj\Debug\netcoreapp3.1\IdentityApi.Domain.csproj.CoreCompileInputs.cache
+D:\UW\Augusta\source\Denver\IdentityApi.Domain\obj\Debug\netcoreapp3.1\IdentityApi.Domain.csproj.CopyComplete
+D:\UW\Augusta\source\Denver\IdentityApi.Domain\obj\Debug\netcoreapp3.1\IdentityApi.Domain.dll
+D:\UW\Augusta\source\Denver\IdentityApi.Domain\obj\Debug\netcoreapp3.1\IdentityApi.Domain.pdb

@@ -1,0 +1,14 @@
+D:\UW\Augusta\source\Denver\DataCore\bin\Debug\netcoreapp3.1\UserApi.DataCore.deps.json
+D:\UW\Augusta\source\Denver\DataCore\bin\Debug\netcoreapp3.1\UserApi.DataCore.dll
+D:\UW\Augusta\source\Denver\DataCore\bin\Debug\netcoreapp3.1\UserApi.DataCore.pdb
+D:\UW\Augusta\source\Denver\DataCore\bin\Debug\netcoreapp3.1\UserApi.Domain.dll
+D:\UW\Augusta\source\Denver\DataCore\bin\Debug\netcoreapp3.1\Utility.dll
+D:\UW\Augusta\source\Denver\DataCore\bin\Debug\netcoreapp3.1\UserApi.Domain.pdb
+D:\UW\Augusta\source\Denver\DataCore\bin\Debug\netcoreapp3.1\Utility.pdb
+D:\UW\Augusta\source\Denver\DataCore\obj\Debug\netcoreapp3.1\UserApi.DataCore.csprojAssemblyReference.cache
+D:\UW\Augusta\source\Denver\DataCore\obj\Debug\netcoreapp3.1\UserApi.DataCore.AssemblyInfoInputs.cache
+D:\UW\Augusta\source\Denver\DataCore\obj\Debug\netcoreapp3.1\UserApi.DataCore.AssemblyInfo.cs
+D:\UW\Augusta\source\Denver\DataCore\obj\Debug\netcoreapp3.1\UserApi.DataCore.csproj.CoreCompileInputs.cache
+D:\UW\Augusta\source\Denver\DataCore\obj\Debug\netcoreapp3.1\UserApi.DataCore.csproj.CopyComplete
+D:\UW\Augusta\source\Denver\DataCore\obj\Debug\netcoreapp3.1\UserApi.DataCore.dll
+D:\UW\Augusta\source\Denver\DataCore\obj\Debug\netcoreapp3.1\UserApi.DataCore.pdb

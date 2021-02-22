@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "EMwv9M8NcK9arxRHr3B/Xsz1llbS5+d6xj8w+F66jue8dtzVnHG/OK6ySACRLYzwA6E2Qm+HQQeKZn+RzsX/PQ==",
+  "success": true,
+  "projectFilePath": "D:\\UW\\Augusta\\source\\Denver\\IdentityApi.Domain\\IdentityApi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramu B\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ramu B\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Ramu B\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Ramu B\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\Ramu B\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Ramu B\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\Ramu B\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

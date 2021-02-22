@@ -1,0 +1,12 @@
+D:\UW\Augusta\source\Denver\Domain\bin\Debug\netcoreapp3.1\UserApi.Domain.deps.json
+D:\UW\Augusta\source\Denver\Domain\bin\Debug\netcoreapp3.1\UserApi.Domain.dll
+D:\UW\Augusta\source\Denver\Domain\bin\Debug\netcoreapp3.1\UserApi.Domain.pdb
+D:\UW\Augusta\source\Denver\Domain\bin\Debug\netcoreapp3.1\Utility.dll
+D:\UW\Augusta\source\Denver\Domain\bin\Debug\netcoreapp3.1\Utility.pdb
+D:\UW\Augusta\source\Denver\Domain\obj\Debug\netcoreapp3.1\UserApi.Domain.csprojAssemblyReference.cache
+D:\UW\Augusta\source\Denver\Domain\obj\Debug\netcoreapp3.1\UserApi.Domain.AssemblyInfoInputs.cache
+D:\UW\Augusta\source\Denver\Domain\obj\Debug\netcoreapp3.1\UserApi.Domain.AssemblyInfo.cs
+D:\UW\Augusta\source\Denver\Domain\obj\Debug\netcoreapp3.1\UserApi.Domain.csproj.CoreCompileInputs.cache
+D:\UW\Augusta\source\Denver\Domain\obj\Debug\netcoreapp3.1\UserApi.Domain.csproj.CopyComplete
+D:\UW\Augusta\source\Denver\Domain\obj\Debug\netcoreapp3.1\UserApi.Domain.dll
+D:\UW\Augusta\source\Denver\Domain\obj\Debug\netcoreapp3.1\UserApi.Domain.pdb

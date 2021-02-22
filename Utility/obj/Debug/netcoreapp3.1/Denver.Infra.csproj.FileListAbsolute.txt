@@ -1,0 +1,9 @@
+D:\UW\Augusta\source\Denver\Utility\bin\Debug\netcoreapp3.1\Denver.Infra.deps.json
+D:\UW\Augusta\source\Denver\Utility\bin\Debug\netcoreapp3.1\Denver.Infra.dll
+D:\UW\Augusta\source\Denver\Utility\bin\Debug\netcoreapp3.1\Denver.Infra.pdb
+D:\UW\Augusta\source\Denver\Utility\obj\Debug\netcoreapp3.1\Denver.Infra.AssemblyInfoInputs.cache
+D:\UW\Augusta\source\Denver\Utility\obj\Debug\netcoreapp3.1\Denver.Infra.AssemblyInfo.cs
+D:\UW\Augusta\source\Denver\Utility\obj\Debug\netcoreapp3.1\Denver.Infra.csproj.CoreCompileInputs.cache
+D:\UW\Augusta\source\Denver\Utility\obj\Debug\netcoreapp3.1\Denver.Infra.dll
+D:\UW\Augusta\source\Denver\Utility\obj\Debug\netcoreapp3.1\Denver.Infra.pdb
+D:\UW\Augusta\source\Denver\Utility\obj\Debug\netcoreapp3.1\Denver.Infra.csprojAssemblyReference.cache
