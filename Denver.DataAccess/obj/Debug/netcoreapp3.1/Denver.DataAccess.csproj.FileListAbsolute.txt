@@ -1,0 +1,9 @@
+D:\UW\Augusta\source\Denver\Denver.DataAccess\bin\Debug\netcoreapp3.1\Denver.DataAccess.deps.json
+D:\UW\Augusta\source\Denver\Denver.DataAccess\bin\Debug\netcoreapp3.1\Denver.DataAccess.dll
+D:\UW\Augusta\source\Denver\Denver.DataAccess\bin\Debug\netcoreapp3.1\Denver.DataAccess.pdb
+D:\UW\Augusta\source\Denver\Denver.DataAccess\obj\Debug\netcoreapp3.1\Denver.DataAccess.csprojAssemblyReference.cache
+D:\UW\Augusta\source\Denver\Denver.DataAccess\obj\Debug\netcoreapp3.1\Denver.DataAccess.AssemblyInfoInputs.cache
+D:\UW\Augusta\source\Denver\Denver.DataAccess\obj\Debug\netcoreapp3.1\Denver.DataAccess.AssemblyInfo.cs
+D:\UW\Augusta\source\Denver\Denver.DataAccess\obj\Debug\netcoreapp3.1\Denver.DataAccess.csproj.CoreCompileInputs.cache
+D:\UW\Augusta\source\Denver\Denver.DataAccess\obj\Debug\netcoreapp3.1\Denver.DataAccess.dll
+D:\UW\Augusta\source\Denver\Denver.DataAccess\obj\Debug\netcoreapp3.1\Denver.DataAccess.pdb
