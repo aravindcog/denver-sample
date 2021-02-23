@@ -15,5 +15,22 @@ spec:
       containers:
         - name: aravindcogdenversample 
           image: denvertestregistry.azurecr.io/aravindcogdenversample
+          imagePullPolicy: Always
           ports:
           - containerPort: 80
+        
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+    name: aravindcogdenversample
+    labels: 
+      run: aravindcogdenversample
+spec:
+    type: LoadBalancer
+    ports:
+    - port: 80
+    selector:
+        app: aravindcogdenversample
+    loadBalancerIP: 20.69.72.46
