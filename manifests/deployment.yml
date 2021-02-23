@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: aravindcogdenversample 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: aravindcogdenversample
+  template:
+    metadata:
+      labels:
+        app: aravindcogdenversample 
+    spec:
+      containers:
+        - name: aravindcogdenversample 
+          image: denvertestregistry.azurecr.io/aravindcogdenversample
+          ports:
+          - containerPort: 80
