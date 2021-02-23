@@ -3,8 +3,10 @@ kind: Service
 metadata:
     name: aravindcogdenversample
 spec:
+    loadBalancerIP: 20.69.72.46
     type: LoadBalancer
     ports:
-    - port: 80 
+    - port: 80
+      protocol: TCP
     selector:
         app: aravindcogdenversample
